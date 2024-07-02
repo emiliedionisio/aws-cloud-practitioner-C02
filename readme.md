@@ -1,10 +1,11 @@
-# AWS Solutions Architect Study Guide
+# AWS Cloud Practitioner Study Guide
 
-This comprehensive study guide is designed to equip you with the knowledge and skills necessary to design, deploy, and manage scalable and secure applications on the Amazon Web Services (AWS) cloud platform. Whether you're new to AWS or an experienced cloud practitioner, this guide will help you master the core concepts and best practices essential for success as an AWS Solutions Architect.
+Welcome to your comprehensive guide for conquering the AWS Certified Cloud Practitioner exam! Whether you're just starting your cloud journey or looking to solidify your understanding of AWS fundamentals, this resource is designed to equip you with the knowledge and confidence to succeed. We'll cover essential concepts, best practices, and real-world scenarios, ensuring you're fully prepared to leverage the power of the AWS Cloud.
 
-[The official AWS Solutions Architect Associate (SAA-C03) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Exam-Guide.pdf)
+[The official AWS Cloud Practitioner Exam Guide](https://drive.google.com/file/d/17BOxH-CR2B7JkP3I8RuXB5W7wY8LzpeP/view?usp=sharing)
 
-## Author: Emilie Dionisio
+
+## Author: {Type your name here}
 [![Static Badge](https://img.shields.io/badge/github-000000?style=social&logo=GitHub)](https://github.com/emiliedionisio)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://emiliedionisio.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
