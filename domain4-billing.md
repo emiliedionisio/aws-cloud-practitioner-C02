@@ -1,6 +1,6 @@
 ## Domain 4: Billing, Pricing, and Support (12% of scored content)
 
-![AWS Cloud Practitioner Domains](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/1-cloudconcepts.png)
+![AWS Cloud Practitioner Domains](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/4-billing.png)
 
 #### 4.1: Compare AWS pricing models
 #### Knowledge of:
