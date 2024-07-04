@@ -1,8 +1,5 @@
 ## Domain 4: Billing, Pricing, and Support (12% of scored content)
 #### 4.1: Compare AWS pricing models
-- S3 storage classes and lifecycle policies
-- EBS volume types and sizing
-- Data transfer and migration strategies
 #### Knowledge of:
 - Compute purchasing options (for example, On-Demand Instances, Reserved Instances, Spot Instances, Savings Plans, Dedicated Hosts, Dedicated Instances, Capacity Reservations)
 - Data transfer charges
@@ -29,6 +26,19 @@
 #### 4.3 Identify AWS technical resources and AWS Support options
 #### Knowledge of:
 - Resources and documentation available on official AWS websites
+- AWS Support plans
+- Role of the AWS Partner Network, including independent software vendors and system integrators
+- AWS Support Center
+#### Skills in:
+- Locating AWS whitepapers, blogs, and documentation on official AWS websites
+- Identifying and locating AWS technical resources (for example AWS Prescriptive Guidance, AWS Knowledge Center, AWS re:Post)
+- Identifying AWS Support options for AWS customers (for example, customer service and communities, AWS Developer Support, AWS Business Support, AWS Enterprise On-Ramp Support, AWS Enterprise Support)
+- Identifying the role of Trusted Advisor, AWS Health Dashboard, and the AWS Health API to help manage and monitor environments for cost optimization
+- Identifying the role of the AWS Trust and Safety team to report abuse of AWS resources
+- Understanding the role of AWS Partners (for example AWS Marketplace, independent software vendors, system integrators)
+- Identifying the benefits of being an AWS Partner (for example, partner training and certification, partner events, partner volume discounts)
+- Identifying the key services that AWS Marketplace offers (for example, cost management, governance and entitlement)
+- Identifying technical assistance options available at AWS (for example, AWS Professional Services, AWS Solutions Architects)
 - AWS Support plans
 - Role of the AWS Partner Network, including independent software vendors and system integrators
 - AWS Support Center
