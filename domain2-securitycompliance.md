@@ -1,6 +1,6 @@
 ## Domain 2: Security and Compliance (30% of scored content)
 
-![AWS Cloud Practitioner Domains](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/1-cloudconcepts.png)
+![AWS Cloud Practitioner Domains](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/2-securitycompliance.png)
 
 #### 2.1 Understand the AWS shared responsibility model
 #### Knowledge of: AWS shared responsibility model
