@@ -1,6 +1,6 @@
 ## Domain 3: Cloud Technology and Services (34% of scored content)
 
-![AWS Cloud Practitioner Domains](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/1-cloudconcepts.png)
+![AWS Cloud Practitioner Domains](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/3-cloudtech.png)
 
 #### 3.1: Define methods of deploying and operating in the AWS Cloud
 #### Knowledge of:
