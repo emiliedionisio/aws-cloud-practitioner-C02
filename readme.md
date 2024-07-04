@@ -16,83 +16,28 @@ The AWS Certified Cloud Practitioner certification is your official starting poi
 
 ![AWS Cloud Practitioner Domains](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/awscp_domains.png)
 
-### [Domain 1: Design Secure Architectures (30% of exam content)](https://github.com/emiliedionisio/aws-solutionsarch-SAA-C03/blob/main/domain1-securearchitecture.md)
-#### 1.1 Design secure access to AWS resources
-- AWS Identity and Access Management (IAM)
-- Multi-account management and AWS Organizations
-- AWS federated access and identity services
-- AWS global infrastructure
+### Domain 1: Cloud Concepts
+- 1.1. Define the benefits of the AWS Cloud.
+- 1.2. Identify design principles of the AWS Cloud.
+- 1.3. Understand the benefits of and strategies for migration to the AWS Cloud.
+- 1.4. Understand concepts of cloud economics.
 
-#### 1.2 Design secure workloads and applications
-- VPC security components (security groups, NACLs, etc.)
-- Network segmentation strategies
-- AWS security services (GuardDuty, Macie, etc.)
-- Secure application access and external network connections
+### Domain 2: Security and Compliance
+- 2.1. Understand the AWS shared responsibility model.
+- 2.2. Understand AWS Cloud security, governance, and compliance concepts.
+- 2.3. Identify AWS access management capabilities.
+- 2.4. Identify components and resources for security.
 
-#### 1.3 Determine appropriate data security controls
-- Encryption at rest and in transit
-- Key management (AWS KMS)
-- Data access, governance, and compliance
-- Backup and recovery strategies
+#### Domain 3: Cloud Technology and Services
+- 3.1. Define methods of deploying and operating in the AWS Cloud.
+- 3.2. Define the AWS global infrastructure.
+- 3.3. Identify AWS compute services.
+- 3.4. Identify AWS database services.
+- 3.5. Identify AWS network services.
+- 3.6. Identify AWS storage services.
+- 3.7. Identify AWS artificial intelligence
 
-### [Domain 2: Design Resilient Architectures (26% of exam content)](https://github.com/emiliedionisio/aws-solutionsarch-SAA-C03/blob/main/domain2-resilientarchitecture.md)
-#### 2.1 Design scalable and loosely coupled architectures
-- Microservices and containerization
-- Serverless architectures
-- Event-driven architectures
-- Load balancing and auto-scaling
-- Storage types and characteristics
-#### 2.2 Design highly available and/or fault-tolerant architectures
-- Multi-AZ and multi-region architectures
-- Disaster recovery strategies
-- Failover and replication techniques
-- Distributed system design patterns
-
-### [Domain 3: Design High-Performing Architectures (24% of exam content)](https://github.com/emiliedionisio/aws-solutionsarch-SAA-C03/blob/main/domain3-highperfarchitecture.md)
-#### 3.1 Determine high-performing and/or scalable storage solutions
-- Storage services (S3, EFS, EBS) and their use cases
-- Storage performance optimization
-
-#### 3.2 Design high-performing and elastic compute solutions
-- EC2 instance types and sizing
-- Container orchestration (ECS, EKS)
-- Serverless computing (Lambda, Fargate)
-
-#### 3.3 Determine high-performing database solutions
-- Database types and services (RDS, DynamoDB, etc.)
-- Caching strategies (ElastiCache)
-- Read replicas and database proxies
-
-#### 3.4 Determine high-performing and/or scalable network architectures
-- VPC design and subnetting
-- Load balancing strategies
-- Content delivery and edge services (CloudFront, Global Accelerator)
-
-#### 3.5 Determine high-performing data ingestion and transformation solutions
-- Data analytics services (Athena, QuickSight)
-- ETL and data processing (Glue, EMR)
-- Streaming data services (Kinesis)
-
-### [Domain 4: Design Cost-Optimized Architectures (20% of exam content)](https://github.com/emiliedionisio/aws-solutionsarch-SAA-C03/blob/main/domain4-cost-optarchitecture.md)
-#### 4.1 Design cost-optimized storage solutions
-- S3 storage classes and lifecycle policies
-- EBS volume types and sizing
-- Data transfer and migration strategies
-#### 4.2 Design cost-optimized compute solutions
-- EC2 purchasing options (On-Demand, Reserved, Spot instances)
-- Containerization and serverless for cost optimization
-- Auto Scaling strategies
-#### 4.3 Design cost-optimized database solutions
-- Choosing the right database service and engine
-- Optimizing database performance and cost
-- Caching strategies for databases
-#### 4.4 Design cost-optimized network architectures
-- VPC design for cost optimization
-- Choosing appropriate data transfer methods
-- Content delivery network optimization
-For each domain and task, focus on:
-- Understanding the relevant AWS services and their features
-- Best practices for architecting solutions
-- Applying concepts to real-world scenarios
-- Hands-on practice with AWS services
-- Reviewing case studies and AWS whitepapers
+#### Domain 4: Billing, Pricing and Support
+- 4.1. Compare AWS pricing models.
+- 4.2. Understand resources for billing, budget, and cost management.
+- 4.3. Identify AWS technical resources and AWS Support options.
