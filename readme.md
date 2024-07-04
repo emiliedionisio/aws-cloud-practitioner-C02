@@ -15,19 +15,19 @@ The AWS Certified Cloud Practitioner certification is your official starting poi
 
 ![AWS Cloud Practitioner Domains](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/awscp_domains.png)
 
-### Domain 1: Cloud Concepts
+### [Domain 1: Cloud Concepts](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/domain1-cloudconcepts.md)
 - 1.1. Define the benefits of the AWS Cloud.
 - 1.2. Identify design principles of the AWS Cloud.
 - 1.3. Understand the benefits of and strategies for migration to the AWS Cloud.
 - 1.4. Understand concepts of cloud economics.
 
-### Domain 2: Security and Compliance
+### [Domain 2: Security and Compliance](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/domain2-securitycompliance.md)
 - 2.1. Understand the AWS shared responsibility model.
 - 2.2. Understand AWS Cloud security, governance, and compliance concepts.
 - 2.3. Identify AWS access management capabilities.
 - 2.4. Identify components and resources for security.
 
-#### Domain 3: Cloud Technology and Services
+#### [Domain 3: Cloud Technology and Services](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/domain3-cloudtechnology.md)
 - 3.1. Define methods of deploying and operating in the AWS Cloud.
 - 3.2. Define the AWS global infrastructure.
 - 3.3. Identify AWS compute services.
@@ -36,7 +36,7 @@ The AWS Certified Cloud Practitioner certification is your official starting poi
 - 3.6. Identify AWS storage services.
 - 3.7. Identify AWS artificial intelligence
 
-#### Domain 4: Billing, Pricing and Support
+#### [Domain 4: Billing, Pricing and Support](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/domain4-billing.md)
 - 4.1. Compare AWS pricing models.
 - 4.2. Understand resources for billing, budget, and cost management.
 - 4.3. Identify AWS technical resources and AWS Support options.
