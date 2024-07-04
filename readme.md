@@ -10,9 +10,11 @@ Welcome to your comprehensive guide for conquering the AWS Certified Cloud Pract
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://emiliedionisio.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emdionisio/)
 
+## AWS Cloud Practitioner Exam Details
 
+The AWS Certified Cloud Practitioner certification is your official starting point for a successful journey into the world of Amazon Web Services (AWS). This foundational certification validates your understanding of core AWS services, concepts, and best practices, regardless of your specific technical role. Whether you're an IT professional, business analyst, project manager, or anyone working with the AWS Cloud, this certification demonstrates your cloud fluency and opens doors to new career opportunities.
 
-## Solutions Architect Domain Topics
+![AWS Cloud Practitioner Domains](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/awscp_domains.png)
 
 ### [Domain 1: Design Secure Architectures (30% of exam content)](https://github.com/emiliedionisio/aws-solutionsarch-SAA-C03/blob/main/domain1-securearchitecture.md)
 #### 1.1 Design secure access to AWS resources
