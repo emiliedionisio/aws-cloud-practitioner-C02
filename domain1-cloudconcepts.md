@@ -1,3 +1,5 @@
+![AWS Cloud Practitioner Domains](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/1-cloudconcepts.png)
+
 ## Domain 1: Cloud Concepts (24% of scored content)
 #### 1.1: Define the benefits of the AWS Cloud
 #### Knowledge of: Value proposition of the AWS Cloud
