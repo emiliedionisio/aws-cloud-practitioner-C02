@@ -1,4 +1,7 @@
 ## Domain 4: Billing, Pricing, and Support (12% of scored content)
+
+![AWS Cloud Practitioner Domains](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/1-cloudconcepts.png)
+
 #### 4.1: Compare AWS pricing models
 #### Knowledge of:
 - Compute purchasing options (for example, On-Demand Instances, Reserved Instances, Spot Instances, Savings Plans, Dedicated Hosts, Dedicated Instances, Capacity Reservations)
