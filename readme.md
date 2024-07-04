@@ -2,7 +2,7 @@
 
 Welcome to your comprehensive guide for conquering the AWS Certified Cloud Practitioner exam! Whether you're just starting your cloud journey or looking to solidify your understanding of AWS fundamentals, this resource is designed to equip you with the knowledge and confidence to succeed. We'll cover essential concepts, best practices, and real-world scenarios, ensuring you're fully prepared to leverage the power of the AWS Cloud.
 
-[The official AWS Cloud Practitioner Exam Guide](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/AWSCloudPractitionerExamGuide.pdf)
+[The official AWS Cloud Practitioner Exam Guide](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/awscloudpractitionerexamguide.pdf)
 
 
 ## Author: {Type your name here}
