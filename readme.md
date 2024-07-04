@@ -6,6 +6,7 @@ Welcome to your comprehensive guide for conquering the AWS Certified Cloud Pract
 - ### [The official AWS Cloud Practitioner Exam Guide](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/awscloudpractitionerexamguide.pdf)
 - ### [AWS Whitepaper 2024](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/awsoverview_whitepaper2024.pdf)
 - ### [AWS Glossary](https://docs.aws.amazon.com/glossary/latest/reference/glos-chap.html)
+- ### [AWS Cloud Essentials](https://aws.amazon.com/getting-started/cloud-essentials/)
 
 
 ## Author: {Type your name here}
