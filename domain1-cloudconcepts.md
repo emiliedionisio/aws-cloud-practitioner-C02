@@ -1,19 +1,33 @@
-### Domain 1: Design Secure Architectures (30% of exam content)
-#### 1.1 Design secure access to AWS resources
-- [AWS Identity and Access Management (IAM)](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
-  - [IAM tutorial: Delegate access across AWS accounts using IAM roles](https://docs.aws.amazon.com/IAM/latest/UserGuide/tutorial_cross-account-with-roles.html)
-- [Multi-account management and AWS Organizations](https://docs.aws.amazon.com/whitepapers/latest/organizing-your-aws-environment/organizing-your-aws-environment.html)
-- [AWS federated access and identity services](https://aws.amazon.com/identity/federation/)
-- [AWS global infrastructure](https://aws.amazon.com/about-aws/global-infrastructure/)
+## Domain 1: Cloud Concepts (24% of scored content)
+#### 1.1: Define the benefits of the AWS Cloud
+#### Knowledge of: Value proposition of the AWS Cloud
+#### Skills in:
+- Understanding the economies of scale (for example, cost savings)
+- Understanding the benefits of global infrastructure (for example, speed of deployment, global reach)
+- Understanding the advantages of high availability, elasticity, and agility
 
-#### 1.2 Design secure workloads and applications
-- VPC security components (security groups, NACLs, etc.)
-- Network segmentation strategies
-- AWS security services (GuardDuty, Macie, etc.)
-- Secure application access and external network connections
+#### 1.2: Identify design principles of the AWS Cloud
+#### Knowledge of: AWS Well-Architected Framework
+#### Skills in:
+- Understanding the pillars of the Well-Architected Framework (for example, operational excellence, security, reliability, performance efficiency, cost optimization, sustainability)
+- Identifying differences between the pillars of the Well-Architected Framework
 
-#### 1.3 Determine appropriate data security controls
-- Encryption at rest and in transit
-- Key management (AWS KMS)
-- Data access, governance, and compliance
-- Backup and recovery strategies
+#### 1.3: Understand the benefits of and strategies for migration to the AWS Cloud
+#### Knowledge of:
+- Cloud adoption strategies
+- Resources to support the cloud migration journey
+#### Skills in:
+- Understanding the benefits of the AWS Cloud Adoption Framework (AWS CAF) (for example, reduced business risk; improved environmental, social, and governance (ESG) performance; increased revenue; increased operational efficiency)
+- Identifying appropriate migration strategies (for example, database replication, use of AWS Snowball)
+
+#### 1.4: Understand concepts of cloud economics
+#### Knowledge of:
+- Aspects of cloud economics
+- Cost savings of moving to the cloud
+##### Skills in:
+- Understanding the role of fixed costs compared with variable costs
+- Understanding costs that are associated with on-premises environments
+- Understanding the differences between licensing strategies (for example, Bring Your Own License [BYOL] model compared with included licenses)
+- Understanding the concept of rightsizing
+- Identifying benefits of automation (for example, provisioning and configuration management with AWS CloudFormation)
+- Identifying managed AWS services (for example, Amazon RDS, Amazon Elastic Container Service [Amazon ECS], Amazon Elastic Kubernetes Service [Amazon EKS], Amazon DynamoDB)
