@@ -10,8 +10,7 @@
 - Understanding the advantages of high availability, elasticity, and agility
 
 #### What is Cloud Computing?
-<p>Cloud computing is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing. On-demand delivery indicates that AWS has the resources you need, when you need them. </p>
-### What is Cloud Computing?
+Cloud computing is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing. On-demand delivery indicates that AWS has the resources you need, when you need them. 
 
 
 
