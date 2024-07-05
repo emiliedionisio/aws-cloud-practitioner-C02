@@ -12,7 +12,7 @@
 #### What is Cloud Computing?
 <p>Cloud computing is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing. On-demand delivery indicates that AWS has the resources you need, when you need them. </p>
 
-<p>#### 1.2: Identify design principles of the AWS Cloud
+#### <p>1.2: Identify design principles of the AWS Cloud
 #### Knowledge of: AWS Well-Architected Framework
 #### Skills in:
 - Understanding the pillars of the Well-Architected Framework (for example, operational excellence, security, reliability, performance efficiency, cost optimization, sustainability)
