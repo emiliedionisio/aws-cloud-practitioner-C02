@@ -12,6 +12,8 @@
 #### What is Cloud Computing?
 Cloud computing is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing. On-demand delivery indicates that AWS has the resources you need, when you need them. 
 
+#### What are the three Cloud Computing Models?
+
 
 
 
