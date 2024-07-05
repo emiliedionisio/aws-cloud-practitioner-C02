@@ -9,6 +9,9 @@
 - Understanding the benefits of global infrastructure (for example, speed of deployment, global reach)
 - Understanding the advantages of high availability, elasticity, and agility
 
+#### What is Cloud Computing?
+<p>Cloud computing is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing. On-demand delivery indicates that AWS has the resources you need, when you need them. </p>
+
 #### 1.2: Identify design principles of the AWS Cloud
 #### Knowledge of: AWS Well-Architected Framework
 #### Skills in:
