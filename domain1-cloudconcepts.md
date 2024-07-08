@@ -9,10 +9,18 @@
 - Understanding the benefits of global infrastructure (for example, speed of deployment, global reach)
 - Understanding the advantages of high availability, elasticity, and agility
 
+<!-- Type your questions and answers below -->
+
 #### What is Cloud Computing?
 Cloud computing is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing. On-demand delivery indicates that AWS has the resources you need, when you need them. 
 
-#### What are the three Cloud Computing Models?
+#### What are the three deployment models for cloud computing, their definitions, and uses?
+- Cloud-based Deployment Model, you can migrate existing applications to the cloud, or you can design and build new applications in the cloud. You can build those applications on low-level infrastructure that requires your IT staff to manage them.
+  - Run all parts of the application in the cloud.
+  - Migrate existing applications to the cloud.
+  - Design and build new applications in the cloud.
+- ### On-premises deployment ### is also known as a private cloud deployment.  In this model, resources are deployed on premises by using virtualization and resource management tools.
+
 
 
 
