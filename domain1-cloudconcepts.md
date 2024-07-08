@@ -19,7 +19,14 @@ Cloud computing is the on-demand delivery of IT resources over the internet with
   - Run all parts of the application in the cloud.
   - Migrate existing applications to the cloud.
   - Design and build new applications in the cloud.
-- ### On-premises deployment ### is also known as a private cloud deployment.  In this model, resources are deployed on premises by using virtualization and resource management tools.
+- On-premises deployment is also known as a private cloud deployment.  In this model, resources are deployed on premises by using virtualization and resource management tools.
+  - Deploy resources by using virtualization and resource management tools.
+  - Increase resource utilization by using application management and virtualization technologies.
+- Hybrid deployment, cloud-based resources are connected to on-premises infrastructure. You might want to use this approach in a number of situations. For example, you have legacy applications that are better maintained on premises, or government regulations require your business to keep certain records on premises.
+  - Connect cloud-based resources to on-premises infrastructure.
+  - Integrate cloud-based resources with legacy IT applications.
+
+
 
 
 
