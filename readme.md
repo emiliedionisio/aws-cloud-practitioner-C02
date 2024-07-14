@@ -21,6 +21,7 @@ The AWS Certified Cloud Practitioner certification is your official starting poi
 
 ### [Domain 1: Cloud Concepts](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/domain1-cloudconcepts.md)
 - 1.1. Define the benefits of the AWS Cloud.
+- [Luz Ritacco](https://github.com/luzritacco/AWS-Cloud-Practitioner-Domain-1-Cloud-Concepts-)
 - 1.2. Identify design principles of the AWS Cloud.
 - 1.3. Understand the benefits of and strategies for migration to the AWS Cloud.
 - 1.4. Understand concepts of cloud economics.
