@@ -181,3 +181,71 @@ Services like Amazon S3, Amazon RDS, and Amazon DynamoDB automatically run acros
 
 What is the recommended best practice for deploying infrastructure in AWS?
 The recommended best practice for deploying infrastructure in AWS is to use multiple Availability Zones and Regions for high availability, fault tolerance, and disaster recovery.
+
+
+### AWS Educate
+
+What is Amazon EC2?
+Amazon EC2 (Elastic Compute Cloud) is a web service that provides resizable compute capacity in the cloud.
+What is Amazon EC2 and its primary benefits?
+Amazon EC2 is a cloud computing service that offers scalable virtual servers, enabling users to launch and manage server instances with benefits like flexibility, scalability, and cost-efficiency.
+What is a Security Group in EC2?
+A Security Group in EC2 is a virtual firewall that controls the inbound and outbound traffic to and from EC2 instances.
+What are the four main purchasing options for EC2 instances, and what are their key characteristics?
+The four main purchasing options for EC2 instances are On-Demand (pay-as-you-go), Reserved (discounted rates for reserved capacity), Spot (bid for unused capacity at reduced rates), and Savings Plans (flexible pricing for long-term commitments).
+How does EC2 pricing work?
+EC2 pricing is based on factors like instance type, operating system, region, and usage duration, with options for On-Demand, Reserved, and Spot instances.
+
+
+What is an Amazon Machine Image (AMI)?
+An Amazon Machine Image (AMI) is a template that contains the software configuration (operating system, application server, and applications) required to launch an instance.
+How does EC2 integrate with other AWS services?
+EC2 integrates with other AWS services such as S3 for storage, RDS for databases, VPC for networking, IAM for access control, and CloudWatch for monitoring and management.
+What are the different computing models available in AWS?
+The different computing models in AWS include EC2 (virtual servers), ECS/EKS (container services), Lambda (serverless computing), and Lightsail (simple virtual private servers).
+What is an instance and its use cases?
+An instance in EC2 is a virtual server used for running applications, web hosting, machine learning, data analysis, and other computing tasks.
+What are containers and their advantages?
+Containers are lightweight, portable units of software that include all dependencies and configurations, offering advantages like scalability, consistency, and efficiency.
+What is serverless computing and its use cases?
+Serverless computing allows you to run code without managing servers, ideal for microservices, real-time file processing, and event-driven applications.
+When would you consider a hybrid deployment model?
+A hybrid deployment model is considered when there is a need to integrate on-premises infrastructure with cloud resources for flexibility, cost savings, or data sovereignty requirements.
+What are some of the popular AWS computing services?
+Popular AWS computing services include EC2, Lambda, ECS, EKS, Lightsail, and Fargate.
+What is AWS Lambda?
+AWS Lambda is a serverless computing service that runs code in response to events and automatically manages the underlying compute resources.
+What is Amazon ECS?
+Amazon ECS (Elastic Container Service) is a fully managed container orchestration service that makes it easy to deploy, manage, and scale containerized applications.
+How does AWS Fargate differ from Amazon EC2?
+AWS Fargate is a serverless compute engine for containers that removes the need to manage EC2 instances, whereas Amazon EC2 requires you to manage the instances hosting your containers
+What are the benefits of using AWS Elastic Beanstalk?
+AWS Elastic Beanstalk simplifies application deployment and management by handling infrastructure provisioning, load balancing, scaling, and monitoring.
+How does EC2 demonstrate elasticity?
+EC2 demonstrates elasticity by allowing users to easily scale compute capacity up or down based on demand through features like Auto Scaling.
+What level of control do users have over EC2 instances?
+Users have complete control over EC2 instances, including root access, the ability to stop and start instances, and the ability to configure instance settings and software.
+How does EC2 integrate with other AWS services?
+EC2 integrates seamlessly with various AWS services like S3 for storage, RDS for databases, IAM for security, VPC for networking, and CloudWatch for monitoring.
+What security features does Amazon EC2 provide?
+Amazon EC2 provides security features like security groups, network ACLs, encryption, IAM roles, and monitoring and logging through CloudWatch and CloudTrail.
+What are the main architectural components of Amazon EC2?
+The main architectural components of Amazon EC2 include instances, AMIs, volumes, security groups, key pairs, and VPCs.
+What factors should you consider when choosing a region for your EC2 instance?
+Factors to consider when choosing a region include latency, data sovereignty, service availability, and pricing.
+What is the purpose of a VPC in Amazon EC2?
+A VPC (Virtual Private Cloud) provides an isolated virtual network where users can launch and manage AWS resources, including EC2 instances.
+What are subnets and their role in EC2?
+Subnets are subdivisions of a VPC that allow users to group resources based on security and operational needs within a single availability zone.
+How do security groups protect your EC2 instances?
+Security groups act as virtual firewalls, allowing users to control the inbound and outbound traffic to and from their EC2 instances.
+What are the steps to launch an EC2 instance?
+Steps to launch an EC2 instance include selecting an AMI, choosing an instance type, configuring instance details, adding storage, configuring security groups, and launching the instance.
+What is the importance of tagging in EC2?
+Tagging helps organize and manage EC2 resources by assigning metadata to instances, which can be used for cost allocation, automation, and resource management.
+Can you automate EC2 scaling?
+Yes, you can automate EC2 scaling using Auto Scaling, which adjusts the number of running instances based on defined policies and metrics.
+What security features does EC2 offer?
+EC2 offers security features like encryption, security groups, network ACLs, IAM roles, and monitoring through CloudWatch and CloudTrail.
+What are the benefits of using AMIs?
+Benefits of using AMIs include easy replication of instances, simplified deployment, faster scaling, and consistent configurations across multiple instances.
