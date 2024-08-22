@@ -17,7 +17,7 @@ Welcome to your comprehensive guide for conquering the AWS Certified Cloud Pract
 
 The AWS Certified Cloud Practitioner certification is your official starting point for a successful journey into the world of Amazon Web Services (AWS). This foundational certification validates your understanding of core AWS services, concepts, and best practices, regardless of your specific technical role. Whether you're an IT professional, business analyst, project manager, or anyone working with the AWS Cloud, this certification demonstrates your cloud fluency and opens doors to new career opportunities.
 
-![AWS Cloud Practitioner Domains](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/awscp_domains.png)
+<!--![AWS Cloud Practitioner Domains](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/awscp_domains.png) -->
 
 ### [Domain 1: Cloud Concepts](https://github.com/emiliedionisio/aws-cloud-practitioner-C02/blob/main/domain1-cloudconcepts.md)
 - 1.1. Define the benefits of the AWS Cloud.
